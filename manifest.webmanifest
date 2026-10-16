@@ -1,0 +1,42 @@
+{
+  "id": "/rail-rush/",
+  "name": "Rail Rush",
+  "short_name": "Rail Rush",
+  "description": "Rail Rush by Zaib: tap the switches and send every colourful train to its matching station. 30 levels across meadows, canyons and snowy peaks, collectible engines and upgrades. A kid-friendly train puzzle game.",
+  "lang": "en",
+  "start_url": "/rail-rush/?source=pwa",
+  "scope": "/rail-rush/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#2f7a45",
+  "background_color": "#2f7a45",
+  "categories": [
+    "games"
+  ],
+  "icons": [
+    {
+      "src": "/rail-rush/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/rail-rush/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/rail-rush/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/rail-rush/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
